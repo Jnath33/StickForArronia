@@ -1,0 +1,7 @@
+name: effectStick
+version: 0.5
+author: jnathBaba
+main: fr.jnathBaba.effectStick.Main
+commands:
+  sticks:
+    permission: stick.use

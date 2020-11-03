@@ -1,0 +1,44 @@
+effectStick:
+  strength:
+    id: 1
+    name: "Strengths stick"
+    description: "The strengths stick"
+    durability: 1
+    effect:
+      strength:
+        id: 5
+        duration: 1
+        level: 1
+  epic:
+    id: 2
+    name: "&l&5Épic stick"
+    description: "&l&cThe Épic stick"
+    durability: 10
+    effect:
+      speed:
+        id: 1
+        duration: 15
+        level: 3
+      absorbsion:
+        id: 22
+        duration: 40
+        level: 4
+      strength:
+        id: 5
+        duration: 20
+        level: 2
+
+chestexplorer:
+  name: "&l&7Chest explorer"
+  message: "&r&c&lChest explorer"
+  dura: 30
+
+cavestick:
+  name: "&l&7Cave stick"
+  message: "&r&c&lCave Stick"
+  dura: 30
+
+unclaim:
+  name: "&l&7Unclaim finder"
+  message: "&r&c&lUnclaim finder"
+  dura: 30
